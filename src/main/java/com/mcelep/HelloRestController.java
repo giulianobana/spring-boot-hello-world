@@ -12,6 +12,6 @@ public class HelloRestController {
 
     @RequestMapping(path = "/hello", method = RequestMethod.GET)
     public String index() {
-        return "Hello World!";
+        return "Hello World!!";
     }
 }
