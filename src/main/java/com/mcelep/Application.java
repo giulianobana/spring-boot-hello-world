@@ -1,4 +1,4 @@
-package com.patrickgrimard;
+package com.mcelep;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
