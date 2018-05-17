@@ -2,7 +2,7 @@
 <settings>
   <mirrors>
     <mirror>
-      <id>Nexus</id>
+      <id>central</id>
       <name>Nexus Public Mirror</name>
       <url>https://artifactory.vt.ch/artifactory/libs-release</url>
       <mirrorOf>*</mirrorOf>
