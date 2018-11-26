@@ -5,7 +5,7 @@
     <mirror>
       <id>central-proxy</id>
       <name>Local proxy of central repo</name>
-      <url>http://artifactory.vt.ch/artifactory/libs-release</url>
+      <url>http://repo.maven.apache.org/maven2</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
